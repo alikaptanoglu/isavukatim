@@ -21,7 +21,7 @@
     "nprogress": "^0.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-moment": "^0.9.2",
+    "react-moment": "^0.9.7",
     "reactstrap": "^8.0.0",
     "truncate-html": "^1.0.2"
   }
